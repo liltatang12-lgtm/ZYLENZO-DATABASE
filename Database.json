@@ -1,37 +1,11 @@
-[
-  {
-    "nomor": "6285730817354",
-    "username": "zylenzo",
-    "password": "banjir",
-    "addedBy": 8428622402,
-    "date": "2026-01-23T07:48:51.195Z"
-  },
-  {
-    "nomor": "6289502354640",
-    "username": "jokowi",
-    "password": "sawit",
-    "addedBy": 8428622402,
-    "date": "2026-01-25T06:44:45.549Z"
-  },
-  {
-    "nomor": "62895326764602",
-    "username": "mbgku",
-    "password": "harini",
-    "addedBy": 8428622402,
-    "date": "2026-01-26T13:31:43.604Z"
-  },
-  {
-    "nomor": "6285124968804",
-    "username": "pteven",
-    "password": "ptevenstore",
-    "addedBy": 8428622402,
-    "date": "2026-01-28T11:17:19.008Z"
-  },
-  {
-    "nomor": "628",
-    "username": "p",
-    "password": "test",
-    "addedBy": 8428622402,
-    "date": "2026-02-07T15:38:39.940Z"
-  }
-]
+{
+  "accounts": [
+    {
+      "nomor": "6285730817354",
+      "username": "p",
+      "password": "",
+      "addedBy": 8428622402,
+      "date": "2026-02-07T15:56:15.415Z"
+    }
+  ]
+}
