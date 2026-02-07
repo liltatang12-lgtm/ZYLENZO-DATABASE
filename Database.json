@@ -1,3 +1,11 @@
 {
-  "accounts": []
+  "accounts": [
+    {
+      "nomor": "6285730817354",
+      "username": "p",
+      "password": "p",
+      "addedBy": 8428622402,
+      "date": "2026-02-07T15:57:24.498Z"
+    }
+  ]
 }
