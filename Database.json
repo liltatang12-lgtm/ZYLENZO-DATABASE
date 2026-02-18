@@ -1,11 +1,11 @@
 {
-  "accounts": [
-    {
+  [
       "nomor": "6289502354640",
       "username": "hidup",
       "password": "jokowi",
       "addedBy": 8428622402,
       "date": "2026-02-18T14:51:06.319Z"
-    }
   ]
+
+  
 }
